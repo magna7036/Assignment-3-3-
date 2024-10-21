@@ -2,7 +2,7 @@
 # Input:        Interactive
 # Output:       Valid date is printed or user is alerted that an invalid date was entered.
 
-validDate = True
+validDate = True 
 MIN_YEAR = 0
 MIN_MONTH = 1
 MAX_MONTH = 12
